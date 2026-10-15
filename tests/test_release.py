@@ -9,7 +9,7 @@ from release import source_files, source_archive
 class ReleaseTests(unittest.TestCase):
     def test_source_package_excludes_user_backups_logs_and_unlisted_binaries(self):
         with tempfile.TemporaryDirectory() as td:
-            root=Path(td)
+            root=Path(td).resolve()
             for name in ('README.md','LICENSE','src/cli.py','tests/test_case.py','tools/build.py','.github/workflows/ci.yml','sessions/private/session.json','sessions/private/init_boot.img','platform-tools/unknown.exe','.env','src/private.img','build/debug.log','tests/__pycache__/cached.py'):
                 p=root/name;p.parent.mkdir(parents=True,exist_ok=True);p.write_text('example')
             files=[p.relative_to(root).as_posix() for p in source_files(root)]

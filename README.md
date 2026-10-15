@@ -1,6 +1,6 @@
 # KSU Toolbox
 
-**Windows 命令行固件与 Root 助手 · v1.1.1**
+**Windows 命令行固件与 Root 助手 · v1.1.2**
 
 [下载 Windows 便携版](https://github.com/Leonis-Q-F/KSU-Toolbox/releases/latest) · [提交问题](https://github.com/Leonis-Q-F/KSU-Toolbox/issues) · [版本记录](CHANGELOG.md)
 
@@ -19,7 +19,7 @@
 
 ## 开始使用
 
-1. 在 [Releases](https://github.com/Leonis-Q-F/KSU-Toolbox/releases/latest) 下载 `KSU-Toolbox-v1.1.1-windows-x64.zip`，完整解压，不需要安装 Python。
+1. 在 [Releases](https://github.com/Leonis-Q-F/KSU-Toolbox/releases/latest) 下载 `KSU-Toolbox-v1.1.2-windows-x64.zip`，完整解压，不需要安装 Python。
 2. 保持随包的 `platform-tools` 文件夹完整。仓库、源码 ZIP 和 Windows 便携包均已包含固定版本的 ADB/Fastboot，无需另行安装或配置 PATH；可用 `--tools` 指定自己的版本。
 3. 手机正常开机、BL 已解锁、启用 USB 调试，连接电脑并允许授权。
 4. 双击 `ksu-root.cmd`。先选择 **仅提取原厂镜像** 可以检查版本和备份，不会刷写。

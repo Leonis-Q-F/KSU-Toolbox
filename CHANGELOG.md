@@ -1,5 +1,11 @@
 # 更新记录
 
+## 1.1.2
+
+- 首次在 GitHub 公开发布，补充 Release 下载入口。
+- 固定内置工具的 Git 字节存储，避免 Windows 换行转换破坏官方文件哈希。
+- 修正发布测试的 Windows 短路径与完整路径比较，兼容 GitHub 托管运行环境。
+
 ## 1.1.1
 
 - 仓库、源码 ZIP 和 Windows 便携包集成固定版本的 ADB/Fastboot 37.0.1、所需 DLL、完整 NOTICE 和来源记录。

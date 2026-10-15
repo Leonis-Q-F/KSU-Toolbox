@@ -13,7 +13,7 @@ from rich.panel import Panel
 from rich.table import Table
 from rich.text import Text
 
-VERSION = '1.1.1'
+VERSION = '1.1.2'
 BLUE = 'bright_blue'
 MUTED = 'bright_black'
 STEPS = [('verify','匹配固件'),('extract','提取镜像'),('push','传入手机'),('manual','手动修补'),('flash','刷入槽位'),('boot','开机验证')]
