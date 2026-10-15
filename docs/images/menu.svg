@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="rich-terminal" viewBox="0 0 1226 830.8">
+
+    <style>
+
+
+
+
+    .terminal-3477504481-matrix {
+        font-family: Consolas, "Microsoft YaHei", monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-3477504481-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-3477504481-r1 { fill: #60a5fa }
+.terminal-3477504481-r2 { fill: #e2e8f0 }
+.terminal-3477504481-r3 { fill: #60a5fa;font-weight: bold }
+.terminal-3477504481-r4 { fill: #22d3ee;font-weight: bold }
+.terminal-3477504481-r5 { fill: #64748b;font-weight: bold }
+.terminal-3477504481-r6 { fill: #64748b }
+.terminal-3477504481-r7 { fill: #4ade80 }
+.terminal-3477504481-r8 { fill: #22d3ee }
+.terminal-3477504481-r9 { fill: #e2e8f0;font-weight: bold }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-3477504481-clip-terminal">
+      <rect x="0" y="0" width="1206.8" height="779.8" />
+    </clipPath>
+    <clipPath id="terminal-3477504481-line-0">
+    <rect x="0" y="1.5" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-1">
+    <rect x="0" y="25.9" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-2">
+    <rect x="0" y="50.3" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-3">
+    <rect x="0" y="74.7" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-4">
+    <rect x="0" y="99.1" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-5">
+    <rect x="0" y="123.5" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-6">
+    <rect x="0" y="147.9" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-7">
+    <rect x="0" y="172.3" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-8">
+    <rect x="0" y="196.7" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-9">
+    <rect x="0" y="221.1" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-10">
+    <rect x="0" y="245.5" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-11">
+    <rect x="0" y="269.9" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-12">
+    <rect x="0" y="294.3" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-13">
+    <rect x="0" y="318.7" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-14">
+    <rect x="0" y="343.1" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-15">
+    <rect x="0" y="367.5" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-16">
+    <rect x="0" y="391.9" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-17">
+    <rect x="0" y="416.3" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-18">
+    <rect x="0" y="440.7" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-19">
+    <rect x="0" y="465.1" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-20">
+    <rect x="0" y="489.5" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-21">
+    <rect x="0" y="513.9" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-22">
+    <rect x="0" y="538.3" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-23">
+    <rect x="0" y="562.7" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-24">
+    <rect x="0" y="587.1" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-25">
+    <rect x="0" y="611.5" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-26">
+    <rect x="0" y="635.9" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-27">
+    <rect x="0" y="660.3" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-28">
+    <rect x="0" y="684.7" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-29">
+    <rect x="0" y="709.1" width="1207.8" height="24.65" />
+            </clipPath>
+<clipPath id="terminal-3477504481-line-30">
+    <rect x="0" y="733.5" width="1207.8" height="24.65" />
+            </clipPath>
+    </defs>
+
+    <rect fill="#0f172a" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1224" height="828.8" rx="8" /><text class="terminal-3477504481-title" fill="#e2e8f0" text-anchor="middle" x="612" y="27">KSU Toolbox · 主菜单</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57" />
+            <circle cx="22" cy="0" r="7" fill="#febc2e" />
+            <circle cx="44" cy="0" r="7" fill="#28c840" />
+            </g>
+
+    <g transform="translate(9, 41)" clip-path="url(#terminal-3477504481-clip-terminal)">
+
+    <g class="terminal-3477504481-matrix">
+    <text class="terminal-3477504481-r1" x="0" y="20" textLength="305.0" clip-path="url(#terminal-3477504481-line-0)" lengthAdjust="spacingAndGlyphs">██╗  ██╗███████╗██╗   ██╗</text><text class="terminal-3477504481-r3" x="341.6" y="20" textLength="866.2" clip-path="url(#terminal-3477504481-line-0)" lengthAdjust="spacingAndGlyphs">TOOLBOX                                                                </text><text class="terminal-3477504481-r2" x="1207.8" y="20" textLength="0.0" clip-path="url(#terminal-3477504481-line-0)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="44.4" textLength="305.0" clip-path="url(#terminal-3477504481-line-1)" lengthAdjust="spacingAndGlyphs">██║ ██╔╝██╔════╝██║   ██║</text><text class="terminal-3477504481-r4" x="341.6" y="44.4" textLength="268.4" clip-path="url(#terminal-3477504481-line-1)" lengthAdjust="spacingAndGlyphs">v1.1.1  ·  Windows x64</text><text class="terminal-3477504481-r2" x="1207.8" y="44.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-1)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="68.8" textLength="305.0" clip-path="url(#terminal-3477504481-line-2)" lengthAdjust="spacingAndGlyphs">█████╔╝ ███████╗██║   ██║</text><text class="terminal-3477504481-r2" x="1207.8" y="68.8" textLength="0.0" clip-path="url(#terminal-3477504481-line-2)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="93.2" textLength="305.0" clip-path="url(#terminal-3477504481-line-3)" lengthAdjust="spacingAndGlyphs">██╔═██╗ ╚════██║██║   ██║</text><text class="terminal-3477504481-r3" x="341.6" y="93.2" textLength="866.2" clip-path="url(#terminal-3477504481-line-3)" lengthAdjust="spacingAndGlyphs">KernelSU 固件与 Root 助手                                              </text><text class="terminal-3477504481-r2" x="1207.8" y="93.2" textLength="0.0" clip-path="url(#terminal-3477504481-line-3)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="117.6" textLength="305.0" clip-path="url(#terminal-3477504481-line-4)" lengthAdjust="spacingAndGlyphs">██║  ██╗███████║╚██████╔╝</text><text class="terminal-3477504481-r5" x="341.6" y="117.6" textLength="256.2" clip-path="url(#terminal-3477504481-line-4)" lengthAdjust="spacingAndGlyphs">2026 / 10 / 15  15:21</text><text class="terminal-3477504481-r2" x="1207.8" y="117.6" textLength="0.0" clip-path="url(#terminal-3477504481-line-4)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="142" textLength="305.0" clip-path="url(#terminal-3477504481-line-5)" lengthAdjust="spacingAndGlyphs">╚═╝  ╚═╝╚══════╝ ╚═════╝ </text><text class="terminal-3477504481-r2" x="1207.8" y="142" textLength="0.0" clip-path="url(#terminal-3477504481-line-5)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r2" x="1207.8" y="166.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-6)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="190.8" textLength="24.4" clip-path="url(#terminal-3477504481-line-7)" lengthAdjust="spacingAndGlyphs">┌─</text><text class="terminal-3477504481-r1" x="24.4" y="190.8" textLength="512.4" clip-path="url(#terminal-3477504481-line-7)" lengthAdjust="spacingAndGlyphs">──────────────────────────────────────────</text><text class="terminal-3477504481-r1" x="536.8" y="190.8" textLength="122.0" clip-path="url(#terminal-3477504481-line-7)" lengthAdjust="spacingAndGlyphs"> 设备状态 </text><text class="terminal-3477504481-r1" x="658.8" y="190.8" textLength="524.6" clip-path="url(#terminal-3477504481-line-7)" lengthAdjust="spacingAndGlyphs">───────────────────────────────────────────</text><text class="terminal-3477504481-r1" x="1183.4" y="190.8" textLength="24.4" clip-path="url(#terminal-3477504481-line-7)" lengthAdjust="spacingAndGlyphs">─┐</text><text class="terminal-3477504481-r2" x="1207.8" y="190.8" textLength="0.0" clip-path="url(#terminal-3477504481-line-7)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="215.2" textLength="12.2" clip-path="url(#terminal-3477504481-line-8)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r1" x="1195.6" y="215.2" textLength="12.2" clip-path="url(#terminal-3477504481-line-8)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="215.2" textLength="0.0" clip-path="url(#terminal-3477504481-line-8)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="239.6" textLength="12.2" clip-path="url(#terminal-3477504481-line-9)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="36.6" y="239.6" textLength="658.8" clip-path="url(#terminal-3477504481-line-9)" lengthAdjust="spacingAndGlyphs">设备  Xiaomi 15 · dada                                </text><text class="terminal-3477504481-r6" x="719.8" y="239.6" textLength="61.0" clip-path="url(#terminal-3477504481-line-9)" lengthAdjust="spacingAndGlyphs">USB  </text><text class="terminal-3477504481-r7" x="780.8" y="239.6" textLength="73.2" clip-path="url(#terminal-3477504481-line-9)" lengthAdjust="spacingAndGlyphs">已连接</text><text class="terminal-3477504481-r1" x="1195.6" y="239.6" textLength="12.2" clip-path="url(#terminal-3477504481-line-9)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="239.6" textLength="0.0" clip-path="url(#terminal-3477504481-line-9)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="264" textLength="12.2" clip-path="url(#terminal-3477504481-line-10)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="36.6" y="264" textLength="658.8" clip-path="url(#terminal-3477504481-line-10)" lengthAdjust="spacingAndGlyphs">系统  OS4.0.0.19.XOCCNXM                              </text><text class="terminal-3477504481-r6" x="719.8" y="264" textLength="122.0" clip-path="url(#terminal-3477504481-line-10)" lengthAdjust="spacingAndGlyphs">当前槽位  </text><text class="terminal-3477504481-r8" x="841.8" y="264" textLength="12.2" clip-path="url(#terminal-3477504481-line-10)" lengthAdjust="spacingAndGlyphs">B</text><text class="terminal-3477504481-r1" x="1195.6" y="264" textLength="12.2" clip-path="url(#terminal-3477504481-line-10)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="264" textLength="0.0" clip-path="url(#terminal-3477504481-line-10)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="288.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="36.6" y="288.4" textLength="85.4" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">BL 锁  </text><text class="terminal-3477504481-r7" x="122" y="288.4" textLength="73.2" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">已解锁</text><text class="terminal-3477504481-r6" x="719.8" y="288.4" textLength="122.0" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">KernelSU  </text><text class="terminal-3477504481-r7" x="841.8" y="288.4" textLength="73.2" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">已加载</text><text class="terminal-3477504481-r1" x="1195.6" y="288.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="288.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-11)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="312.8" textLength="12.2" clip-path="url(#terminal-3477504481-line-12)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r1" x="1195.6" y="312.8" textLength="12.2" clip-path="url(#terminal-3477504481-line-12)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="312.8" textLength="0.0" clip-path="url(#terminal-3477504481-line-12)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r1" x="0" y="337.2" textLength="1207.8" clip-path="url(#terminal-3477504481-line-13)" lengthAdjust="spacingAndGlyphs">└─────────────────────────────────────────────────────────────────────────────────────────────────┘</text><text class="terminal-3477504481-r2" x="1207.8" y="337.2" textLength="0.0" clip-path="url(#terminal-3477504481-line-13)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="361.6" textLength="1207.8" clip-path="url(#terminal-3477504481-line-14)" lengthAdjust="spacingAndGlyphs">┌─────────────────────────────────────────────────────────────────────────────────────────────────┐</text><text class="terminal-3477504481-r2" x="1207.8" y="361.6" textLength="0.0" clip-path="url(#terminal-3477504481-line-14)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="386" textLength="12.2" clip-path="url(#terminal-3477504481-line-15)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="1195.6" y="386" textLength="12.2" clip-path="url(#terminal-3477504481-line-15)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="386" textLength="0.0" clip-path="url(#terminal-3477504481-line-15)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="410.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-16)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r4" x="36.6" y="410.4" textLength="549.0" clip-path="url(#terminal-3477504481-line-16)" lengthAdjust="spacingAndGlyphs">固件与 Root                                  </text><text class="terminal-3477504481-r4" x="610" y="410.4" textLength="561.2" clip-path="url(#terminal-3477504481-line-16)" lengthAdjust="spacingAndGlyphs">检查与记录                                    </text><text class="terminal-3477504481-r6" x="1195.6" y="410.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-16)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="410.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-16)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="434.8" textLength="12.2" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r3" x="36.6" y="434.8" textLength="61.0" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">[1]  </text><text class="terminal-3477504481-r3" x="97.6" y="434.8" textLength="146.4" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">从卡刷包开始</text><text class="terminal-3477504481-r3" x="610" y="434.8" textLength="61.0" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">[4]  </text><text class="terminal-3477504481-r3" x="671" y="434.8" textLength="146.4" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">检查设备连接</text><text class="terminal-3477504481-r6" x="1195.6" y="434.8" textLength="12.2" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="434.8" textLength="0.0" clip-path="url(#terminal-3477504481-line-17)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="459.2" textLength="12.2" clip-path="url(#terminal-3477504481-line-18)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r5" x="36.6" y="459.2" textLength="390.4" clip-path="url(#terminal-3477504481-line-18)" lengthAdjust="spacingAndGlyphs">     完整 OTA · 本地 ZIP / HTTPS</text><text class="terminal-3477504481-r5" x="610" y="459.2" textLength="378.2" clip-path="url(#terminal-3477504481-line-18)" lengthAdjust="spacingAndGlyphs">     USB / 系统 / BL / 活动槽位</text><text class="terminal-3477504481-r6" x="1195.6" y="459.2" textLength="12.2" clip-path="url(#terminal-3477504481-line-18)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="459.2" textLength="0.0" clip-path="url(#terminal-3477504481-line-18)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="483.6" textLength="12.2" clip-path="url(#terminal-3477504481-line-19)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="1195.6" y="483.6" textLength="12.2" clip-path="url(#terminal-3477504481-line-19)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="483.6" textLength="0.0" clip-path="url(#terminal-3477504481-line-19)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="508" textLength="12.2" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r3" x="36.6" y="508" textLength="61.0" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">[2]  </text><text class="terminal-3477504481-r3" x="97.6" y="508" textLength="146.4" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">从线刷包开始</text><text class="terminal-3477504481-r3" x="610" y="508" textLength="61.0" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">[5]  </text><text class="terminal-3477504481-r3" x="671" y="508" textLength="170.8" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">查看备份与日志</text><text class="terminal-3477504481-r6" x="1195.6" y="508" textLength="12.2" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="508" textLength="0.0" clip-path="url(#terminal-3477504481-line-20)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="532.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-21)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r5" x="36.6" y="532.4" textLength="378.2" clip-path="url(#terminal-3477504481-line-21)" lengthAdjust="spacingAndGlyphs">     TGZ / TAR / ZIP / 解压目录</text><text class="terminal-3477504481-r5" x="610" y="532.4" textLength="329.4" clip-path="url(#terminal-3477504481-line-21)" lengthAdjust="spacingAndGlyphs">     按运行时间查看本地记录</text><text class="terminal-3477504481-r6" x="1195.6" y="532.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-21)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="532.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-21)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="556.8" textLength="12.2" clip-path="url(#terminal-3477504481-line-22)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="1195.6" y="556.8" textLength="12.2" clip-path="url(#terminal-3477504481-line-22)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="556.8" textLength="0.0" clip-path="url(#terminal-3477504481-line-22)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="581.2" textLength="12.2" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r3" x="36.6" y="581.2" textLength="61.0" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">[3]  </text><text class="terminal-3477504481-r3" x="97.6" y="581.2" textLength="170.8" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">仅提取原厂镜像</text><text class="terminal-3477504481-r3" x="610" y="581.2" textLength="61.0" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">[6]  </text><text class="terminal-3477504481-r3" x="671" y="581.2" textLength="219.6" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">使用帮助与支持范围</text><text class="terminal-3477504481-r6" x="1195.6" y="581.2" textLength="12.2" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="581.2" textLength="0.0" clip-path="url(#terminal-3477504481-line-23)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="605.6" textLength="12.2" clip-path="url(#terminal-3477504481-line-24)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r5" x="36.6" y="605.6" textLength="353.8" clip-path="url(#terminal-3477504481-line-24)" lengthAdjust="spacingAndGlyphs">     核对当前版本，备份到电脑</text><text class="terminal-3477504481-r5" x="610" y="605.6" textLength="353.8" clip-path="url(#terminal-3477504481-line-24)" lengthAdjust="spacingAndGlyphs">     操作流程、条件和故障处理</text><text class="terminal-3477504481-r6" x="1195.6" y="605.6" textLength="12.2" clip-path="url(#terminal-3477504481-line-24)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="605.6" textLength="0.0" clip-path="url(#terminal-3477504481-line-24)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="630" textLength="12.2" clip-path="url(#terminal-3477504481-line-25)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="1195.6" y="630" textLength="12.2" clip-path="url(#terminal-3477504481-line-25)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="630" textLength="0.0" clip-path="url(#terminal-3477504481-line-25)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="654.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-26)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r6" x="1195.6" y="654.4" textLength="12.2" clip-path="url(#terminal-3477504481-line-26)" lengthAdjust="spacingAndGlyphs">│</text><text class="terminal-3477504481-r2" x="1207.8" y="654.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-26)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="678.8" textLength="1207.8" clip-path="url(#terminal-3477504481-line-27)" lengthAdjust="spacingAndGlyphs">└─────────────────────────────────────────────────────────────────────────────────────────────────┘</text><text class="terminal-3477504481-r2" x="1207.8" y="678.8" textLength="0.0" clip-path="url(#terminal-3477504481-line-27)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r9" x="0" y="703.2" textLength="97.6" clip-path="url(#terminal-3477504481-line-28)" lengthAdjust="spacingAndGlyphs">[0] 退出</text><text class="terminal-3477504481-r5" x="97.6" y="703.2" textLength="414.8" clip-path="url(#terminal-3477504481-line-28)" lengthAdjust="spacingAndGlyphs">    完整固件 · 当前版本 · 原厂备份</text><text class="terminal-3477504481-r2" x="1207.8" y="703.2" textLength="0.0" clip-path="url(#terminal-3477504481-line-28)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="727.6" textLength="634.4" clip-path="url(#terminal-3477504481-line-29)" lengthAdjust="spacingAndGlyphs">支持小米 / 红米 / POCO 的 ARM64 A/B init_boot 设备。</text><text class="terminal-3477504481-r2" x="1207.8" y="727.6" textLength="0.0" clip-path="url(#terminal-3477504481-line-29)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r2" x="1207.8" y="752" textLength="0.0" clip-path="url(#terminal-3477504481-line-30)" lengthAdjust="spacingAndGlyphs">
+</text><text class="terminal-3477504481-r6" x="0" y="776.4" textLength="463.6" clip-path="url(#terminal-3477504481-line-31)" lengthAdjust="spacingAndGlyphs">界面预览 · 示例数据 · 本脚本不读取手机</text><text class="terminal-3477504481-r2" x="1207.8" y="776.4" textLength="0.0" clip-path="url(#terminal-3477504481-line-31)" lengthAdjust="spacingAndGlyphs">
+</text>
+    </g>
+    </g>
+</svg>
